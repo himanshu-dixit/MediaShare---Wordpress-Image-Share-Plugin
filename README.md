@@ -6,4 +6,4 @@ Style 1,Style 2,Style 3,Style 4,Style 5.<br>
 Add it to any embed, image.<br>
 Easy To Use.<br>
 <img src="https://www.inspire2rise.com/wp-content/uploads/2014/11/Boost-your-social-traffic-Mediashares-plugin-giveaway-2.png"/>
-<img src="https://www.inspire2rise.com/wp-content/uploads/2014/11/Boost-your-social-traffic-Mediashares-plugin-giveaway-3.jpg'/>
+<img src="https://www.inspire2rise.com/wp-content/uploads/2014/11/Boost-your-social-traffic-Mediashares-plugin-giveaway-3.jpg"/>
